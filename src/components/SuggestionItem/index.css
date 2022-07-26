@@ -1,0 +1,36 @@
+/* Write your CSS here */
+
+
+.suggestions-items-list{
+    display: flex;
+  justify-content: space-between;
+  margin-top: 16px;
+  list-style-type: none;
+
+}
+.each-suggest-item {
+    color: teal;
+
+  font-family: 'Roboto';
+  font-size: 16px;
+  margin: 0;
+}
+
+
+.arrowIcon {
+  width: 15px;
+  height: 15px;
+
+}
+
+
+.button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+
+
+
